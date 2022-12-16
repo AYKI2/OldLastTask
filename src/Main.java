@@ -1,7 +1,6 @@
 import enums.Gender;
 import enums.Genre;
 import enums.Language;
-import exception.UniqueConstrainException;
 import model.Book;
 import model.User;
 import service.impl.BookServiceImpl;
